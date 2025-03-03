@@ -1,11 +1,6 @@
 public class Taschenrechner {
 
-    /**
-     * Adds two numbers together
-     * @param a first number
-     * @param b second number
-     * @return sum of a and b
-     */
+    // Test bakermaxxed
     public double add(double a, double b) {
         return a + b;
     }
