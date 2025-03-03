@@ -11,7 +11,6 @@ public class Taschenrechner {
     }
 
     /**
-     * Subtracts second number from first number
      * @param a first number
      * @param b second number
      * @return difference of a and b

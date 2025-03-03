@@ -1,7 +1,6 @@
 public class TaschenrechnerTest {
 
     public static void main(String[] args) {
-        // Create an instance of Calculator
         Taschenrechner calculator = new Taschenrechner();
 
         // Test addition
